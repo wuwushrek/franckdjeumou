@@ -42,7 +42,8 @@ education:
     - course: M.S. in Computer Science
       institution: École Polytechnique, France
       year: 2017
-    - course: Junior undergraduate in Math, Physics, and Computer Science
+    - course: Class preparatory (Junior undergraduate level) in Math, Physics, and
+        Computer Science
       institution: Lycée Fénelon, France
       year: 2014
 email: fdjeumou@utexas.edu
