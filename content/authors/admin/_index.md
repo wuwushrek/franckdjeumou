@@ -33,16 +33,16 @@ organizations:
     url: https://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page
 education:
   courses:
-    - course: Ph.D. in Electrical and Computer Engineering
+    - course: Ph.D. in Electrical and Computer Eng
       institution: The University of Texas at Austin
       year: 2023
-    - course: B.S. and M.S. in Aeronautical and Aerospace Eng
+    - course: B.S. and M.S. in Aerospace Eng
       institution: ISAE-SUPAERO
       year: 2018
     - course: M.S. in Computer Science
       institution: École Polytechnique
       year: 2017
-    - course: Junior undergraduate in Math, Physics, and CS
+    - course: Junior undergraduate in Math, Physics, and Computer Science
       institution: Lycée Fénelon
       year: 2014
 email: fdjeumou@utexas.edu
