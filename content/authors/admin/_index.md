@@ -1,6 +1,7 @@
 ---
 title: Franck Djeumou
 role: Fourth-year Ph.D. student in Electrical and Computer Engineering
+avatar_filename: pic_linkedlin.jpeg
 bio: My research interests include learning with prior knowledge, safe learning,
   control theory, optimization, and formal methods
 interests:
