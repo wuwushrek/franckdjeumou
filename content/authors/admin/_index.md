@@ -34,16 +34,16 @@ organizations:
 education:
   courses:
     - course: Ph.D. in Electrical and Computer Eng
-      institution: The University of Texas at Austin
+      institution: The University of Texas at Austin, US
       year: 2023
     - course: B.S. and M.S. in Aerospace Eng
-      institution: ISAE-SUPAERO
+      institution: ISAE-SUPAERO, France
       year: 2018
     - course: M.S. in Computer Science
-      institution: École Polytechnique
+      institution: École Polytechnique, France
       year: 2017
     - course: Junior undergraduate in Math, Physics, and Computer Science
-      institution: Lycée Fénelon
+      institution: Lycée Fénelon, France
       year: 2014
 email: fdjeumou@utexas.edu
 superuser: true
