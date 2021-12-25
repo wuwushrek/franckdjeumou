@@ -24,7 +24,7 @@ social:
     link: https://github.com/wuwushrek
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/franck-djeumou-626613202
+    link: https://www.linkedin.com/in/franck-djeumou-626613202/
 organizations:
   - name: The University of Texas at Austin
     url: https://www.ece.utexas.edu/
