@@ -12,7 +12,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: mywebsitevid.gif
+    image: ""
     image_parallax: false
     image_position: center
     image_size: actual
