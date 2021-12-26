@@ -11,7 +11,7 @@ subtitle: ""
 active: true
 design:
   columns: "1"
-  background:
+<!--   background:
     image: ""
     image_parallax: false
     image_position: center
@@ -21,6 +21,6 @@ design:
       - 300px
       - "0"
       - 300px
-      - "0"
+      - "0" -->
 ---
 ![til](mywebsitevid.gif)
