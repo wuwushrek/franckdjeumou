@@ -12,14 +12,11 @@ active: true
 design:
   columns: "1"
   background:
-    gradient_start: rgba(0, 0, 0, 0)
-    gradient_end: rgba(0, 0, 0, 0)
-    text_color_light: true
     image: mywebsiteintro.png
-  spacing:
+<!--   spacing:
     padding:
       - 20px
       - "0"
       - 20px
-      - "0"
+      - "0" -->
 ---
