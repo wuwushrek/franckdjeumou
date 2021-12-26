@@ -15,7 +15,7 @@ design:
     image: mywebsiteintro.png
     image_parallax: false
     image_position: center
-    image_size: size
+    image_size: actual
   spacing:
     padding:
       - 300px
