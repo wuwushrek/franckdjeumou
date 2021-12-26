@@ -18,8 +18,8 @@ design:
     image_size: actual
   spacing:
     padding:
-      - 1px
       - "0"
-      - 300px
+      - "0"
+      - 500px
       - "0"
 ---
