@@ -18,7 +18,7 @@ design:
     image_size: actual
   spacing:
     padding:
-      - "0"
+      - 200px
       - "0"
       - 500px
       - "0"
