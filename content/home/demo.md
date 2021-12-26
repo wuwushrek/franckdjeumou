@@ -17,9 +17,9 @@ design:
     text_color_light: true
   spacing:
     padding:
-      - 20px
+      - 1px
       - "0"
-      - 20px
+      - 1px
       - "0"
 ---
 ![til](mywebsitevid.gif)
