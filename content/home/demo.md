@@ -18,8 +18,8 @@ design:
     image_size: cover
   spacing:
     padding:
-      - 200px
+      - 500px
       - "0"
-      - 200px
+      - 500px
       - "0"
 ---
