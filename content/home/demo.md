@@ -16,10 +16,10 @@ design:
     image_parallax: false
     image_position: center
     image_size: cover
-<!--   spacing:
+  spacing:
     padding:
-      - 20px
+      - 300px
       - "0"
-      - 20px
-      - "0" -->
+      - 300px
+      - "0"
 ---
