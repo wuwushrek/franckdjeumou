@@ -6,22 +6,18 @@ widget: blank
 widget_id: Template
 headless: true
 weight: 15
-title: ""
+title: Academic Template
 subtitle: ""
-active: true
+active: false
 design:
   columns: "1"
-  gradient_start: "DarkGreen"
-  gradient_end: "ForestGreen"
-  
-<!--   background:
-    image: ""
-    image_parallax: false
-    image_position: center
-    image_size: actual -->
+  background:
+    gradient_start: DarkGreen
+    gradient_end: ForestGreen
+    text_color_light: true
   spacing:
     padding:
-      - 10px
+      - 20px
       - "0"
       - 20px
       - "0"
