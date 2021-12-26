@@ -15,11 +15,11 @@ design:
     image: mywebsitevid.gif
     image_parallax: true
     image_position: center
-    image_size: cover
+    image_size: actual
   spacing:
     padding:
-      - 600px
+      - 1px
       - "0"
-      - 400px
+      - 1px
       - "0"
 ---
