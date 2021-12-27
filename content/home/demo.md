@@ -15,6 +15,7 @@ design:
     gradient_start: DarkGreen
     gradient_end: ForestGreen
     text_color_light: true
+    image: ""
   spacing:
     padding:
       - 1px
@@ -22,6 +23,4 @@ design:
       - 1px
       - "0"
 ---
-![til](mywebsitevid.gif)
-
-![f16](mywebsitevidf16.gif)
+![til](mywebsitelong.gif)
