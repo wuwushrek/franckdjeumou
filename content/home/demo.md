@@ -14,10 +14,7 @@ design:
   background:
     color: transparent
     text_color_light: false
-    video:
-      path: mywebsiten.mp4
-      flip: false
-<!--     image: "" -->
+    image: ""
   spacing:
     padding:
       - 1px
