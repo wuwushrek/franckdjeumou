@@ -11,11 +11,11 @@ subtitle: ""
 active: true
 design:
   columns: "1"
-  background:
+<!--   background:
     gradient_start: DarkGreen
     gradient_end: ForestGreen
-    text_color_light: true
-    image: ""
+    text_color_light: false
+    image: "" -->
   spacing:
     padding:
       - 1px
