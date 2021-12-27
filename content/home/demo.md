@@ -11,16 +11,15 @@ subtitle: ""
 active: true
 design:
   columns: "1"
-<!--   background:
-    gradient_start: DarkGreen
-    gradient_end: ForestGreen
+  background:
+    color: navy
     text_color_light: false
-    image: "" -->
+    image: ""
   spacing:
     padding:
-      - 1px
+      - 100px
       - "0"
-      - 1px
+      - 100px
       - "0"
 ---
 ![til](mywebsitefullwidth.gif)
