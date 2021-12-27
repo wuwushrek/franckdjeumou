@@ -14,7 +14,7 @@ design:
   background:
     color: transparent
     text_color_light: false
-    image: homepagebg.png
+    image: ""
   spacing:
     padding:
       - 1px
