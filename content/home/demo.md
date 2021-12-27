@@ -14,7 +14,7 @@ design:
   background:
     color: transparent
     text_color_light: false
-    image: ""
+    image: mywebsitefullwidth.gif
   spacing:
     padding:
       - 1px
