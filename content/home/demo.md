@@ -14,7 +14,7 @@ design:
   background:
     color: transparent
     text_color_light: false
-    image: bgdark.jpg
+    image: homepagebg.png
   spacing:
     padding:
       - 1px
