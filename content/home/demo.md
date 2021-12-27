@@ -12,14 +12,14 @@ active: true
 design:
   columns: "1"
   background:
-    color: navy
+    color: transparent
     text_color_light: false
     image: ""
   spacing:
     padding:
-      - 100px
+      - 1px
       - "0"
-      - 100px
+      - 1px
       - "0"
 ---
 ![til](mywebsitefullwidth.gif)
