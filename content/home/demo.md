@@ -23,4 +23,4 @@ design:
       - 1px
       - "0"
 ---
-![til](mywebsitelong.gif)
+![til](mywebsitefullwidth.gif)
